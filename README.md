@@ -39,7 +39,8 @@ Contributors names and contact info
 
 ex. Pablo Insua Fuster. 
 ex. [@pablif]
-
+ex. Germán Pérez García
+ex. [@gepega]
 ## Historial de versiones
 
 * 0.2
