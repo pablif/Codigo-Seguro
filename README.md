@@ -41,6 +41,8 @@ ex. Pablo Insua Fuster.
 ex. [@pablif]
 ex. Germán Pérez García
 ex. [@gepega]
+ex. Irene Cid Rico
+ex. [@cidinene]
 ## Historial de versiones
 
 * 0.2
