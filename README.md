@@ -1,24 +1,24 @@
-# Project Title
+# Codigo Seguro 
 
-Simple overview of use/purpose.
+Una perspectiva sencilla del propósito
 
-## Description
+## Descripcion
 
-An in-depth paragraph about your project and overview of use.
+Repositorio para incluir las mejores prácticas de creación de código seguro
 
-## Getting Started
+## Comencemos
 
-### Dependencies
+### Dependencias
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
 
-### Installing
+### Instalación
 
 * How/where to download your program
 * Any modifications needed to be made to files/folders
 
-### Executing program
+### Ejecutando el programa
 
 * How to run the program
 * Step-by-step bullets
@@ -26,29 +26,30 @@ An in-depth paragraph about your project and overview of use.
 code blocks for commands
 ```
 
-## Help
+## Ayuda
 
 Any advise for common problems or issues.
 ```
 command to run if program contains helper info
 ```
 
-## Authors
+## Autores
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. Pablo Insua Fuster. 
+ex. [@pablif]
 
-## Version History
+## Historial de versiones
 
 * 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
+    * Modificados titulos al Español
+    * Añadido autor
+    
 * 0.1
-    * Initial Release
+    * Version inicial 
 
-## License
+## Licencias
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
